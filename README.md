@@ -57,7 +57,6 @@ Execute the program
          </tr>
          <tr>
              <td>WEDNESDAY</td>
-             <td>19AI402/KartthiGovindharaju</td>
              <td></td>
              <td>19AI301C/JabaJasphin</td>
              <td></td>
@@ -67,7 +66,7 @@ Execute the program
          <tr>
              <td>THURSDAY</td>
              <td>19AI302C/Ram.G.R</td>
-             <td>-</td>
+
              <td>19AI301C/JabaJasphin</td>
              <td></td>
              <td align="center">19AI301C/Ram.G.R</td>
@@ -77,7 +76,7 @@ Execute the program
              <td>FRIDAY</td>
              <td>19AI402C/KarthiGovindharaju</td>
              <td></td>
-             <td>19AI302C/JabaJasphin</td>
+
              <td></td>
              <td align="center">-</td>
              <td align="center">-</td>
@@ -89,6 +88,9 @@ Execute the program
 
 
 ~~~
+<<<<<<< HEAD
 # OUTPUT
 ![GitHub Logo](/logo.png)
 ![GitHub Logo](.//Timetable.png)
+=======
+
