@@ -39,15 +39,49 @@ Execute the program
          </tr>
           <tr>
              <td>MONDAY</td>
-             <td>Accounts</td>
-             <td>English</td>
-             <td>Statistics</td>
-             <td>Banking</td>
-             <td align="center">-</td>
-             <td align="center">EP</td>
+             <td>19EY701/SnehaPriya</td>
+             <td></td>
+             <td>19AI301C/JabaJasphin</td>
+             <td></td>
+             <td align="center">19AI301C/JabaJasphin</td>
+             <td align="center"></td>
          </tr>
-  
-         
+         <tr>
+             <td>TUESDAY</td>
+             <td>19AI402/KarthiGovindharaju</td>
+             <td></td>
+             <td>19AI302C/Ram.G.R</td>
+             <td></td>
+             <td align="center">19AI301C/Ram.G.R</td>
+             <td align="center"></td>
+         </tr>
+         <tr>
+             <td>WEDNESDAY</td>
+             <td>19AI402/KartthiGovindharaju</td>
+             <td></td>
+             <td>19AI301C/JabaJasphin</td>
+             <td></td>
+             <td align="center">-</td>
+             <td align="center">-</td>
+         </tr>
+         <tr>
+             <td>THURSDAY</td>
+             <td>19AI302C/Ram.G.R</td>
+             <td>-</td>
+             <td>19AI301C/JabaJasphin</td>
+             <td></td>
+             <td align="center">19AI301C/Ram.G.R</td>
+             <td align="center"></td>
+         </tr>
+         <tr>
+             <td>FRIDAY</td>
+             <td>19AI402C/KarthiGovindharaju</td>
+             <td></td>
+             <td>19AI302C/JabaJasphin</td>
+             <td></td>
+             <td align="center">-</td>
+             <td align="center">-</td>
+         </tr>
       </table>
       
    </body>
@@ -55,4 +89,6 @@ Execute the program
 
 
 ~~~
-# OUPUT
+# OUTPUT
+![GitHub Logo](/logo.png)
+![GitHub Logo](.//Timetable.png)
